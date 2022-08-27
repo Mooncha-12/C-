@@ -1,0 +1,15 @@
+D:\Artyom\GeekBrains\C#\examp001\bin\Debug\net6.0\examp001.exe
+D:\Artyom\GeekBrains\C#\examp001\bin\Debug\net6.0\examp001.deps.json
+D:\Artyom\GeekBrains\C#\examp001\bin\Debug\net6.0\examp001.runtimeconfig.json
+D:\Artyom\GeekBrains\C#\examp001\bin\Debug\net6.0\examp001.dll
+D:\Artyom\GeekBrains\C#\examp001\bin\Debug\net6.0\examp001.pdb
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.csproj.AssemblyReference.cache
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.AssemblyInfoInputs.cache
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.AssemblyInfo.cs
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.csproj.CoreCompileInputs.cache
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.dll
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\refint\examp001.dll
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.pdb
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\examp001.genruntimeconfig.cache
+D:\Artyom\GeekBrains\C#\examp001\obj\Debug\net6.0\ref\examp001.dll
